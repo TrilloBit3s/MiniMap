@@ -1,10 +1,6 @@
 # MiniMapa
 
-> Status: Developing ⚠️
-
 > Unity used 2019.2.18f1
-
-# https://syr.us/nVv
 
 ### Development of a Simple Mini Map, just for study but serves for 2D or 3D.
 
